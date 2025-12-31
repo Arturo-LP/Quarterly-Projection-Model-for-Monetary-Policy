@@ -47,7 +47,7 @@ which represents the two main transmission channels for monetary policy in a sma
 Inflation follows a hybrid New Keynesian Phillips Curve:
 
 $$
-\pi_t = a_1 \pi_{t-1} + (1 - a_1) \mathbb{E}_t[\pi_{t+1}] + a_2  rmc_t + \varepsilon_t^{\pi}
+\pi_t = a_1 \pi_{t-1} + (1 - a_1) \pi_{t+1}^e + a_2  rmc_t + \varepsilon_t^{\pi}
 $$
 
 The real marginal cost index is defined as:
