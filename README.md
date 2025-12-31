@@ -13,7 +13,7 @@ It is built around four core blocks:
 
 1. **IS curve (aggregate demand)**
 2. **Phillips curve (inflation dynamics)**
-3. **Monetary policy rule (a forward looking Taylor rule type)**
+3. **Monetary policy rule (a forward looking Taylor-type rule)**
 4. **Modified Uncovered Interest Parity (UIP) condition**
 
 An exogenous foreign block closes the small open economy framework.
