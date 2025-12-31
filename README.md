@@ -39,6 +39,7 @@ mci_t = b_4 \hat{r}_t + (1 - b_4)(-\hat{z}_t)
 $$
 
 which represents the two main transmission channels for monetary policy in a small open economy.
+
 ---
 
 ## Non-Policy Block: Phillips Curve (Inflation Dynamics)
@@ -143,6 +144,7 @@ $$
 $$
 
 which implicitly determines the risk premium, while the remaining trend variables follow exogenous autoregressive processes.
+
 ---
 
 ## Purpose of the Repository
