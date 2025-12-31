@@ -29,7 +29,7 @@ The specification is consistent with log-linearized equations around the steady 
 The output gap dynamics are given by:
 
 $$
-\hat{y}_t = b_1 \hat{y}_{t-1} - b_2 \, mci_t + b_3 \hat{y}_t^{\ast} + \varepsilon_t^{y}
+\hat{y}_t = b_1 \hat{y}_{t-1} - b_2  mci_t + b_3 \hat{y}_t^{\ast} + \varepsilon_t^{y}
 $$
 
 where the **monetary conditions index (MCI)** is defined as:
@@ -46,7 +46,7 @@ which represents the two main transmission channels for monetary policy in a sma
 Inflation follows a hybrid New Keynesian Phillips Curve:
 
 $$
-\pi_t = a_1 \pi_{t-1} + (1 - a_1) \mathbb{E}_t[\pi_{t+1}] + a_2 \, rmc_t + \varepsilon_t^{\pi}
+\pi_t = a_1 \pi_{t-1} + (1 - a_1) \mathbb{E}_t[\pi_{t+1}] + a_2  rmc_t + \varepsilon_t^{\pi}
 $$
 
 The real marginal cost index is defined as:
@@ -87,7 +87,7 @@ $$
 The nominal exchange rate follows a modified UIP condition:
 
 $$
-s_t = (1 - e_1)\mathbb{E}_t[s_{t+1}] + e_1 \left( s_{t-1}+ \frac{2}{4} \left( \pi_t^{TAR} - \bar{\pi}_t^{\ast} + \Delta \bar{z}_t\right) \right) + \frac{-i_t + i_t^{\ast} + prem_t}{4} + \varepsilon_t^{s}
+s_t = (1 - e_1)\mathbb{E}_t[s_{t+1}] + e_1 \left(s_{t-1}+ \frac{2}{4} \left(\pi_t^{TAR} - \bar{\pi}_t^{\ast} + \Delta \bar{z}_t\right)\right) + \frac{-i_t + i_t^{\ast} + prem_t}{4} + \varepsilon_t^{s}
 $$
 
 ---
