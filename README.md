@@ -18,7 +18,7 @@ It is built around four core blocks:
 
 An exogenous foreign block closes the small open economy framework.
 
-The specification is consistent with log-linearization equations around the steady state from a structural Small Open Economy NK-DSGE.
+The specification is consistent with log-linearized equations around the steady state from a structural Small Open Economy NK-DSGE.
 
 ---
 
